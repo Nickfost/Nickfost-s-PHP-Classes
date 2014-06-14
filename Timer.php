@@ -3,6 +3,7 @@
  *	Timer v1
  *	Author: Nick Foster
  *	Date: 6-14-2014
+ * 	Github: https://github.com/Nickfost/Nickfost-s-PHP-Classes/blob/master/Timer.php
 **/
 
 class Timer{
